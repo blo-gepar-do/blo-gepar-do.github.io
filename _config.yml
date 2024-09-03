@@ -1,0 +1,4 @@
+title: gepar.do blog
+description: Cтатьи от gepardo
+permalink: /v0/:title:output_ext
+lang: ru-RU
